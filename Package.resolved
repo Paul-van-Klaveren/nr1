@@ -1,0 +1,42 @@
+{
+  "originHash" : "83650124f0a49ea20c3d6f5c5248570c43faa95471f4e2f8c77635e6dd21a9fb",
+  "pins" : [
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "1d29eccc24cc8b75bff9f6804155112c0ffc9605",
+        "version" : "4.4.3"
+      }
+    },
+    {
+      "identity" : "nr2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Paul-van-Klaveren/nr2.git",
+      "state" : {
+        "revision" : "98e8cc97720983b3791335cd1a570e5a4cf26727",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-snapshot-testing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-snapshot-testing.git",
+      "state" : {
+        "revision" : "625ccca8570773dd84a34ee51a81aa2bc5a4f97a",
+        "version" : "1.16.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax",
+      "state" : {
+        "revision" : "303e5c5c36d6a558407d364878df131c3546fad8",
+        "version" : "510.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
